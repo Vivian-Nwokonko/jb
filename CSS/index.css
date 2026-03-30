@@ -5,7 +5,9 @@
     box-sizing: border-box;
 }
 
-
+html, body {
+  overflow-x: hidden;
+}
 
 /* placed at relative so that it can control the whatsapp and chat with us button */
 .body{
